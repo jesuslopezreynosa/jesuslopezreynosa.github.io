@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(245, 245, 246);
+}
+
+.row-container {
+    border-bottom: double;
+}
+/* Primary #d32f2f */
+/* Secondary #9a0007 */
+.container-fluid#title {
+    background-color: #9a0007;
+    color: white;
+}
+
+.container-fluid#links-container-fluid {
+    background-color: #9a0007;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#links {
+    justify-content: space-between;
+}
